@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Rajan 👋
 
-<!--
-**adi05rjn/adi05rjn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an **Electronics & Communication Engineering student** interested in building systems close to the hardware.
 
-Here are some ideas to get you started:
+My main areas of interest are:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Embedded Systems & Firmware** — C, ARM Cortex-M, STM32, bare-metal programming and RTOS
+- **FPGA & SoC** — digital design, hardware acceleration, RISC-V and heterogeneous systems
+- **Semiconductors & VLSI** — device/process technology, TCAD and semiconductor manufacturing
+- **Hardware–Software Co-design** — building systems where software and hardware are designed together
+
+### Currently working on
+
+- Bare-metal STM32 firmware and peripheral drivers
+- FPGA/SoC projects involving RISC-V and hardware acceleration
+- Semiconductor process modelling and fabrication-oriented projects
+
+### Tools & Technologies
+
+`C` `C++` `STM32` `ARM Cortex-M` `FreeRTOS` `Verilog/SystemVerilog` `FPGA` `RISC-V` `Linux` `Git`
+
+### What I'm exploring
+
+I'm particularly interested in **high-performance embedded systems, FPGA acceleration, semiconductor technology, and low-latency computing**.
+
+I use this GitHub to document projects, experiments, and what I'm learning along the way.
