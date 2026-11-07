@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="400" viewBox="0 0 900 400" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15">
+  <title>Rajan Adithya — fastfetch</title>
+  <defs>
+    <linearGradient id="border" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#4a4a4a"/>
+    </linearGradient>
+  </defs>
+
+  <!-- desktop -->
+  <rect width="900" height="400" rx="10" fill="#000000"/>
+
+  <!-- top bar -->
+  <rect width="900" height="36" rx="10" fill="#0a0a0a"/>
+  <rect y="20" width="900" height="16" fill="#0a0a0a"/>
+  <rect x="12" y="9" width="24" height="18" rx="5" fill="#e6e6e6"/>
+  <text x="24" y="23" text-anchor="middle" font-size="13" font-weight="700" fill="#000000">1</text>
+  <text x="54" y="23" text-anchor="middle" font-size="13" fill="#4a4a4a">2</text>
+  <text x="80" y="23" text-anchor="middle" font-size="13" fill="#4a4a4a">3</text>
+  <text x="106" y="23" text-anchor="middle" font-size="13" fill="#4a4a4a">4</text>
+  <text x="132" y="23" text-anchor="middle" font-size="13" fill="#4a4a4a">5</text>
+  <text x="450" y="23" text-anchor="middle" font-size="13" fill="#cfcfcf">rajan@omarchy</text>
+  <text x="886" y="23" text-anchor="end" font-size="13" fill="#8a8a8a">omarchy · vantablack</text>
+
+  <!-- terminal window with Hyprland-style gradient border -->
+  <rect x="24" y="56" width="852" height="320" rx="10" fill="#050505" stroke="url(#border)" stroke-width="2"/>
+
+  <!-- command -->
+  <text x="56" y="94" xml:space="preserve"><tspan fill="#ffffff" font-weight="700">rajan@omarchy</tspan><tspan fill="#8a8a8a"> ~ $ </tspan><tspan fill="#cfcfcf">fastfetch</tspan></text>
+
+  <!-- fields -->
+  <g font-size="15">
+    <text x="56" y="134" font-weight="700" fill="#ffffff">user</text>
+    <text x="160" y="134" fill="#b8b8b8">Rajan Adithya (adi05rjn)</text>
+
+    <text x="56" y="160" font-weight="700" fill="#ffffff">role</text>
+    <text x="160" y="160" fill="#b8b8b8">ECE student · Bangalore Institute of Technology</text>
+
+    <text x="56" y="186" font-weight="700" fill="#ffffff">focus</text>
+    <text x="160" y="186" fill="#b8b8b8">VLSI · Embedded · FPGA · Physical design</text>
+
+    <text x="56" y="212" font-weight="700" fill="#ffffff">stack</text>
+    <text x="160" y="212" fill="#b8b8b8">C · Verilog · SystemVerilog · FreeRTOS · STM32</text>
+
+    <text x="56" y="238" font-weight="700" fill="#ffffff">os</text>
+    <text x="160" y="238" fill="#b8b8b8">Omarchy (Arch Linux)</text>
+
+    <text x="56" y="264" font-weight="700" fill="#ffffff">wm</text>
+    <text x="160" y="264" fill="#b8b8b8">Hyprland</text>
+
+    <text x="56" y="290" font-weight="700" fill="#ffffff">status</text>
+    <text x="160" y="290" fill="#ffffff">open to internships · semiconductors / embedded</text>
+  </g>
+
+  <!-- palette (grayscale ramp) -->
+  <g>
+    <rect x="56"  y="310" width="24" height="18" rx="3" fill="#262626"/>
+    <rect x="86"  y="310" width="24" height="18" rx="3" fill="#3a3a3a"/>
+    <rect x="116" y="310" width="24" height="18" rx="3" fill="#525252"/>
+    <rect x="146" y="310" width="24" height="18" rx="3" fill="#6e6e6e"/>
+    <rect x="176" y="310" width="24" height="18" rx="3" fill="#8a8a8a"/>
+    <rect x="206" y="310" width="24" height="18" rx="3" fill="#a8a8a8"/>
+    <rect x="236" y="310" width="24" height="18" rx="3" fill="#c8c8c8"/>
+    <rect x="266" y="310" width="24" height="18" rx="3" fill="#f0f0f0"/>
+  </g>
+
+  <!-- prompt with blinking cursor -->
+  <text x="56" y="358" xml:space="preserve"><tspan fill="#ffffff" font-weight="700">rajan@omarchy</tspan><tspan fill="#8a8a8a"> ~ $ </tspan></text>
+  <rect x="218" y="343" width="9" height="18" fill="#e6e6e6">
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.1s" repeatCount="indefinite"/>
+  </rect>
+</svg>
