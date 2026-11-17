@@ -1,81 +1,23 @@
-<div align="center">
+# Rajan Adithya
 
-<img src="assets/banner.svg" alt="fastfetch output for Rajan Adithya: ECE student, VLSI, embedded, FPGA, open to internships" width="100%"/>
+Electronics & Communication Engineering student at Bangalore Institute of Technology (2027). I work mostly on embedded firmware and am moving toward VLSI and physical design. Open to internships.
 
-<br/>
+## Projects
 
-![Followers](https://img.shields.io/github/followers/adi05rjn?label=followers&style=flat-square&labelColor=0a0a0a&color=e6e6e6)
-![Profile views](https://komarev.com/ghpvc/?username=adi05rjn&label=views&color=8a8a8a&labelColor=0a0a0a&style=flat-square)
-![Open to internships](https://img.shields.io/badge/internships-open-ffffff?style=flat-square&labelColor=0a0a0a)
+- [standard-cell-height-reduction](https://github.com/adi05rjn/standard-cell-height-reduction): SEMulator3D models of 6.5T to 4.5T standard cells, checked against two imec papers
+- [finfet-process-simulation](https://github.com/adi05rjn/finfet-process-simulation): 3D FinFET process flow in SEMulator3D (STI, fins, doping, HfOx/TiN gate)
+- [rtl-to-gds-workshop](https://github.com/adi05rjn/rtl-to-gds-workshop): RTL-to-GDS workshop record covering SystemVerilog, DFT, physical design, and timing
+- [fpga-automotive-vibration-analysis](https://github.com/adi05rjn/fpga-automotive-vibration-analysis): Verilog SPI master, MPU9250 reader, and FIFO for vibration monitoring
+- [rtos-scheduler-benchmark-stm32f407](https://github.com/KTL-5002/rtos-scheduler-benchmark-stm32f407): DMS vs. EDF scheduling on FreeRTOS
+- [openwave-mvp](https://github.com/adi05rjn/openwave-mvp): teaching tool for rectangular-waveguide TE modes
 
-</div>
+## Exploring
 
-## ❯ ~/about
+- Real-time scheduling and high-performance embedded systems
+- Physical design: RTL to a tapeout-ready layout
+- Open-source EDA: SKY130 and OpenROAD
+- FPGA acceleration and low-latency computing
 
-I'm an **Electronics & Communication Engineering student** at Bangalore Institute of Technology, interested in systems where the silicon, the firmware and the software are designed together. This GitHub is where I document projects, experiments and what I'm learning along the way.
+## Contact
 
-## ❯ ~/focus
-
-<div align="center">
-  <img src="assets/focus.svg" alt="Four tiled windows: semiconductors, embedded, fpga, co-design" width="100%"/>
-</div>
-
-## ❯ ~/projects
-
-<div align="center">
-
-### `silicon`
-
-<a href="https://github.com/adi05rjn/rtl-to-gds-workshop">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=adi05rjn&repo=rtl-to-gds-workshop&bg_color=0a0a0a&title_color=ffffff&icon_color=8a8a8a&text_color=a8a8a8&border_color=262626" alt="rtl-to-gds-workshop" />
-</a>
-<a href="https://github.com/adi05rjn/finfet-process-simulation">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=adi05rjn&repo=finfet-process-simulation&bg_color=0a0a0a&title_color=ffffff&icon_color=8a8a8a&text_color=a8a8a8&border_color=262626" alt="finfet-process-simulation" />
-</a>
-
-### `embedded`
-
-<a href="https://github.com/KTL-5002/rtos-scheduler-benchmark-stm32f407">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KTL-5002&repo=rtos-scheduler-benchmark-stm32f407&bg_color=0a0a0a&title_color=ffffff&icon_color=8a8a8a&text_color=a8a8a8&border_color=262626" alt="rtos-scheduler-benchmark-stm32f407" />
-</a>
-<a href="https://github.com/adi05rjn/battery-management-system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=adi05rjn&repo=battery-management-system&bg_color=0a0a0a&title_color=ffffff&icon_color=8a8a8a&text_color=a8a8a8&border_color=262626" alt="battery-management-system" />
-</a>
-
-### `fpga & more`
-
-<a href="https://github.com/adi05rjn/fpga-automotive-vibration-analysis">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=adi05rjn&repo=fpga-automotive-vibration-analysis&bg_color=0a0a0a&title_color=ffffff&icon_color=8a8a8a&text_color=a8a8a8&border_color=262626" alt="fpga-automotive-vibration-analysis" />
-</a>
-<a href="https://github.com/adi05rjn/openwave-mvp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=adi05rjn&repo=openwave-mvp&bg_color=0a0a0a&title_color=ffffff&icon_color=8a8a8a&text_color=a8a8a8&border_color=262626" alt="openwave-mvp" />
-</a>
-
-</div>
-
-## ❯ ~/exploring
-
-```console
-$ cat exploring.txt
-high-performance embedded systems and real-time scheduling
-physical design: the path from RTL to a tapeout-ready layout
-open-source EDA, the SKY130 and OpenROAD ecosystem
-FPGA acceleration and low-latency computing
-```
-
-## ❯ ~/contact
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-adi05rjn-e6e6e6?style=flat-square&logo=github&logoColor=0a0a0a&labelColor=0a0a0a)](https://github.com/adi05rjn)
-
-<!-- Add your own links here, for example:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-your--handle-e6e6e6?style=flat-square&logo=linkedin&logoColor=0a0a0a&labelColor=0a0a0a)](https://www.linkedin.com/in/your-handle)
-[![Email](https://img.shields.io/badge/Email-you%40example.com-8a8a8a?style=flat-square&logo=gmail&logoColor=0a0a0a&labelColor=0a0a0a)](mailto:you@example.com)
--->
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:000000,50:1a1a1a,100:333333&section=footer" alt="" width="100%"/>
-
-</div>
+[GitHub](https://github.com/adi05rjn)
